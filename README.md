@@ -1,5 +1,5 @@
 # Student_Library_Management_System
---> This is a Spring Boot Application in which I have ceated STUDENT and LIBRARY CARD associated with that student.
+--> This is a Spring Boot Application in which I have created STUDENT and LIBRARY CARD associated with that student.
 --> Created a full MVC(Model-View-Controller) Structure
 --> Which has Models, Controller Layer, Service Layer and Repository Layer.
 --> It has APIs to manage database and inside functionality of application.
